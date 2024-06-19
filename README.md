@@ -1,12 +1,19 @@
-<h1 align="center">Привет 👋, я Данил</h1>
-<h3 align="center"> Увлеченный frontend-разработчик из Индии</h3>
+<h1 align="center">Hi 👋, I'm Danil</h1>
+<h3 align="center">Увлеченный backend-разработчик на Python</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniltsarev&label=Profile%20views&color=0e75b6&style=flat" alt="daniltsarev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniltsarev" alt="daniltsarev" /></a> </p>
 
 - 🌱 В настоящее время я изучаю ** FastAPI, Django, Flask**
 
 - 📫 Как со мной связаться **drsif@yandex.ru**
 
-<h3 align="left">Связаться со мной: </h3>
+- 📄 Узнайте о моем опыте [https://arkhangelsk.hh.ru/resume/2e4e550cff0d4785650039ed1f39764748724d](https://arkhangelsk.hh.ru/resume/2e4e550cff0d4785650039ed1f39764748724d)
+
+<h3 align="left">Связаться со мной:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/danil-tsarev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="danil-tsarev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Языки и инструменты:</h3>
